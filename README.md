@@ -1,6 +1,6 @@
-
-![image](logo@4x.png)
-![image](6_objects.png)
+<p align="center">
+  <img src="header_banner.png" alt="banji chouka" width="100%">
+</p>
 
 > 个人的游戏练习作品。
 > 本来只是想跑起来，结果越做越大，最后长成了一个发展得有点奇怪的东西。
