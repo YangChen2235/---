@@ -10,6 +10,60 @@
 
 一句话概括：**把班里的同学抽成卡，然后带他们去打牌。**
 
+## 直接下载
+
+不用装 Godot，也不用会 GitHub。点下面自己那台机器的图标就能下，都是压缩包，解压即玩；
+不想下载的话，最右边那个是网页版，打开浏览器就能玩。
+
+<table>
+	<tr>
+		<td align="center" width="25%">
+			<a href="https://github.com/YangChen2235/---/releases/download/26.10.20.24/Windows.zip">
+				<img src="https://yangchen2235.github.io/assets/img/platform/windows.svg" width="48" height="48" alt="Windows" />
+				<br />
+				<b>Windows</b>
+			</a>
+			<br />
+			355 MB · 解压双击即玩
+		</td>
+		<td align="center" width="25%">
+			<a href="https://github.com/YangChen2235/---/releases/download/26.10.3.1/Linux.zip">
+				<img src="https://yangchen2235.github.io/assets/img/platform/linux.svg" width="48" height="48" alt="Linux" />
+				<br />
+				<b>Linux</b>
+			</a>
+			<br />
+			349 MB · 解压后加执行权限
+		</td>
+		<td align="center" width="25%">
+			<a href="https://github.com/YangChen2235/---/releases/download/26.10.3.1/Android.zip">
+				<img src="https://yangchen2235.github.io/assets/img/platform/android.svg" width="48" height="48" alt="Android" />
+				<br />
+				<b>Android</b>
+			</a>
+			<br />
+			349 MB · 解压装里面的 apk
+		</td>
+		<td align="center" width="25%">
+			<a href="https://yangchen2235.github.io/play/">
+				<img src="https://yangchen2235.github.io/assets/img/platform/googlechrome.svg" width="48" height="48" alt="网页版" />
+				<br />
+				<b>网页版</b>
+			</a>
+			<br />
+			不用下载，打开就玩
+		</td>
+	</tr>
+</table>
+
+上面四个图标都指向 [Releases](https://github.com/YangChen2235/---/releases) 里的包：
+Windows 那个是最新的单平台导出，Linux / Android / 网页版来自四平台一起导的那一版。
+想看别的版本、或者想自己挑资产，去 [全部发行版](https://github.com/YangChen2235/---/releases) 翻。
+
+存档在游戏内的「设置 → 存档 → 导出」里可以备份成文件，换机器的时候直接带过去。
+
+---
+
 > 先说清楚：项目里现在**所有美术素材都是网上下载的临时占位图**（原神官方素材的第三方镜像），
 > 只用于开发期看效果，**不能用于发布**。详见 [`图片/临时美术说明.md`](图片/临时美术说明.md)。
 
